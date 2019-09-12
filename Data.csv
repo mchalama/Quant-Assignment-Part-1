@@ -1,0 +1,11 @@
+EmployeeID,NAME,AGE,Gender,Certified
+1,Hari,28.00,male,yes
+2,Riya,24.00,female,yes
+3,Charan,30.00,male,no
+4,Rahul,31.00,male,yes
+5,Raahi,29.00,female,no
+6,Ayaan,28.00,male,no
+7,Ishaan,24.00,male,no
+8,Kiara,22.00,female,yes
+9,Ramya,35.00,female,yes
+10,Kiyan,36.00,male,no
